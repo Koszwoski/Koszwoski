@@ -6,7 +6,7 @@
 
 ###                          
 <h3 align="left">About me</h3>
-Engineer for over 7 years. O.O
+Engineer for over 7 years.
 
 <img src="https://raw.githubusercontent.com/Koszwoski/Koszwoski/output/snake.svg" alt="Snake animation" />
 
