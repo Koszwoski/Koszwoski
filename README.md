@@ -10,6 +10,14 @@
 
 ###
 
+<h2 align="left">2B2T groups im associated with</h2>
+
+###
+
+<h4 align="left">The Kalmar Union<br><br>Divnity</h4>
+
+###
+
 <h2 align="left"></h2>
 
 ###
