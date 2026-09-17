@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">The Kalmar Union<br><br>Divinity</h4>
+<h4 align="left"<br>Divinity</h4>
 
 ###
 
